@@ -1,3 +1,5 @@
+The src/main/resources/TransactionsSample.json is sample data to test the code.
+
 Project Prerequisites Setup
 This directory contains scripts to automate the installation and configuration of prerequisites required to run the project.
 By using these scripts, you can quickly set up your environment without manual installations.
